@@ -1,4 +1,4 @@
-# OpenCv-Image-Processing
+# OpenCV-Image-Processing
 
 In this repository I explore various image processing and image analysis techiniques using OpenCV. I will begin with how to load and the various ways of processing the image to make the needed features more enhanced and later extract 
 inforamtion from it through image analysis.
